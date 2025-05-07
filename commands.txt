@@ -1,0 +1,12 @@
+We have two commonly known ways to install node your project 
+you can use the npm and pnpm method in the terminal 
+
+1. npm install
+
+npm run start 
+
+npm run lint
+and so on
+
+2. pnpm install
+
